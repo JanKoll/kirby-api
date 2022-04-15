@@ -1,0 +1,45 @@
+title: Cloud
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        sections:
+          info:
+            type: fields
+            fields:
+              text:
+                label: Cloud description
+                type: textarea
+                required: true
+              provider:
+                type: text
+              year:
+                type: number
+              service:
+                type: tags
+              pricing:
+                type: text
+              link:
+                type: url
+
+      - width: 1/2
+        fields:
+          icon:
+            size: tiny
+            type: files
+            layout: cards
+            max: 1
+            required: true
+          serviceimages:
+            size: tiny
+            type: files
+            layout: cards
+
+
+  media:
+    sections:
+      files:
+        type: files
+        layout: cards
+        size: medium

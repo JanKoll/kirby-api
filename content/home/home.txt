@@ -1,0 +1,3 @@
+Title: Home
+----
+Text: Welcome to our beautiful site
