@@ -1,0 +1,13 @@
+title: Better-Rest Plugin API access
+extends: users/default
+
+permissions:
+  access:
+    panel: true
+    users: false
+    site: false
+    settings: false
+  site: false
+  pages: false
+  users: false
+  files: false
