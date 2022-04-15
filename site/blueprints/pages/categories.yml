@@ -1,0 +1,29 @@
+title: Categories
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    layout: list
+    template: 
+      - technology
+      - cloud
+    status: drafts
+    help: Always upload a nice cover first
+    image:
+      ratio: 4/5
+      cover: true
+  published:
+    headline: Published Categories
+    type: pages
+    layout: cards
+    template:
+      - technology
+      - cloud
+    status: published
+    limit: 5
+    image:
+      ratio: 1/1
+      cover: true
+
+
