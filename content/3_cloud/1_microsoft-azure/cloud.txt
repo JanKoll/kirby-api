@@ -28,11 +28,13 @@ Link: https://www.google.de
 
 Icon:
 
-- react-icon.svg.png
+- ms-azure-logo.png
 
 ----
 
 Serviceimages:
 
-- ionic-icon.png
-- react-icon.svg.png
+- azure-storage-accounts.png
+- azure-storage-blob.png
+- app_service.png
+- microsoft-azure-servicebus.png
