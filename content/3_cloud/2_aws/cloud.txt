@@ -1,0 +1,38 @@
+Title: AWS
+
+----
+
+Text: Amazon Web Services (AWS) ist ein US-amerikanischer Cloud-Computing-Anbieter, der 2006 als Tochterunternehmen des Online-Versandhändlers Amazon.com gegründet wurde. Zahlreiche populäre Dienste wie beispielsweise Dropbox, Netflix, Foursquare oder Reddit greifen auf die Dienste von Amazon Web Services zurück. 2017 stufte Gartner AWS als führenden internationalen Anbieter im Cloud Computing ein.
+
+----
+
+Provider: Amazon
+
+----
+
+Year: 2006
+
+----
+
+Service: Amazon RDS, Amazon SageMaker
+
+----
+
+Pricing: It depends
+
+----
+
+Link: https://aws.amazon.com/de/?nc2=h_lg
+
+----
+
+Icon:
+
+- aws.png
+
+----
+
+Serviceimages:
+
+- amazon_sagemaker.jpg
+- amazon_rds.png
