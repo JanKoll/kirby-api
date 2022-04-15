@@ -1,0 +1,31 @@
+Title: .Net Core
+
+----
+
+Text:
+
+NET, bis 2020 .NET Core, ist eine freie und quelloffene Software-Plattform (innerhalb) der .NET-Plattform, die zur Entwicklung und Ausführung von Anwendungsprogrammen dient und unter der Koordination von Microsoft entwickelt wird.
+
+.NET Core wurde mehrere Jahre als Modernisierungsprojekt von zentralen Komponenten des .Net-Frameworks entwickelt und bildet jetzt als .NET den Nachfolger des bisherigen monolithischen .Net-Framework, dessen voraussichtlich letzte Version die Version 4.8 ist.
+
+Bestimmte API-Lücken gegenüber dem klassischen .NET werden nur durch Windows-spezifische Zusatzpakete geschlossen (z. B. Microsoft.Windows.Compatibility). Das betrifft auch die im September 2019 im Rahmen der .NET Core Version 3.0 freigegebenen grafischen Benutzeroberflächen Windows Forms und WPF.
+
+Bibliotheksfunktionen können kompatibel für die bisherigen .NET-Plattformen entwickelt werden, indem sie als Zielframework .NET Standard 2.0 verwenden.
+
+----
+
+Year: 2016
+
+----
+
+Lang: C#
+
+----
+
+Link: https://dotnet.microsoft.com/en-us/
+
+----
+
+Icon:
+
+- net_core_logo.svg

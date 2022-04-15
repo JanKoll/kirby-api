@@ -1,0 +1,33 @@
+title: Site
+
+sections:
+  drafts:
+    type: pages
+    status: drafts
+    create:
+      - default
+      - categories
+    template:
+      - default
+      - categories
+  
+  invisible:
+    type: pages
+    status: unlisted
+    create:
+      - default
+      - categories
+    template:
+      - default
+      - categories
+  
+  visible:
+    type: pages
+    status: listed
+    create:
+      - default
+      - categories
+    template:
+      - default
+      - categories
+

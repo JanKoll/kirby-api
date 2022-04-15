@@ -1,0 +1,37 @@
+title: Technology
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        sections:
+          info:
+            type: fields
+            fields:
+              text:
+                label: Technology description
+                type: textarea
+                required: true
+              year:
+                type: number
+              lang:
+                label: Language
+                type: tags
+              link:
+                type: url
+
+      - width: 1/2
+        fields:
+          icon:
+            size: tiny
+            type: files
+            layout: cards
+            max: 1
+            required: true
+
+  media:
+    sections:
+      files:
+        type: files
+        layout: cards
+        size: medium
