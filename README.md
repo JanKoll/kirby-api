@@ -28,4 +28,15 @@ git checkout '#1-Aufgabe-Frontend'
 
 **Mac:** Unter macOS Monterey ist PHP nicht mehr standardmäßig installiert, schaut euch dazu die Anleitung von [php.net](https://www.php.net/manual/de/install.macosx.packages.php) an.
 
-**Windows:** Bei uns ist es zu Problemen mit PHP gekommen, wenn es bei dir nicht funktioniert nutz bitte [XAMMP](https://www.apachefriends.org/de/download.html) (Git Repo muss in den “htdocs” Ordner von XAMPP abgelegt werden). 
+**Windows:** 
+Bei uns ist es zu Problemen mit PHP gekommen, wenn es bei dir nicht funktioniert nutz bitte [XAMMP](https://www.apachefriends.org/de/download.html).
+XAMPP:
+1. Git Repo muss in den “htdocs”-Ordner von XAMPP geclont werden. 
+2. Der "htdocs"-Ordner muss dafür zuerst geleert werden und anschließend muss nur der Inhalt aus unserem Repo in diesen geladen werden.
+```bash
+git clone https://github.com/JanKoll/kirby-api.git .
+```
+3. Dabei ist der Punkt am Ende des Clone Befehls zu beachten, um nur die Dateien aus dem Repo zu clonen.
+4. Als nächstes folgt Schritt 2 am Anfang von "Getting started, 2. Alle Remote Branches herunterladen" 
+5. Im "XAMPP Control Panel" muss der Apache Dienst gestartet werden.
+6. Im Browser sollte jetzt unter localhost:80 unsere Internetseite erreichbar sein.
